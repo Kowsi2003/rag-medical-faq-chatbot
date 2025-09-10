@@ -1,0 +1,8 @@
+streamlit>=1.36.0
+openai>=1.40.0
+pandas>=2.2.2
+tiktoken>=0.7.0
+faiss-cpu>=1.8.0
+chromadb>=0.5.5
+python-dotenv>=1.0.1
+pydantic>=2.9.0

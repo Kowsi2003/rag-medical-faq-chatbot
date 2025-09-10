@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# App artifacts
+index/
+.streamlit/
+*.db
+
+# Secrets
+.env
+.env.* 
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
